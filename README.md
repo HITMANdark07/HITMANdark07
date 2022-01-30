@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full (MERN) Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Future Rental Cab Booking System**
 
