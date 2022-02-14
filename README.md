@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Future Rental Cab Booking System**
 
-- 🌱 I’m currently learning **NextJs , Express**
+- 🌱 I’m currently learning **BlockChain, Ethereum**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
