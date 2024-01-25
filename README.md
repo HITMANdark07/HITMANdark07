@@ -1,8 +1,8 @@
 <h3 align="center">A passionate Full (MERN) Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Future Rental Cab Booking System**
+- 🔭 I’m currently working on **Journalist Colaboration Platform**
 
-- 🌱 I’m currently learning **BlockChain, Ethereum**
+- 🌱 I’m currently learning **BlockChain(solidity), Golang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
