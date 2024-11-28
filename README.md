@@ -8,11 +8,9 @@
 
 - 🤝 I’m looking for help with **SFU Architecture from Scratch**
 
-- 💬 Ask me about **React, Redux, Node Express**
+- 💬 Ask me about **React, Node Express**
 
 - 📫 How to reach me **shekharkumar235838@gmail.com**
-
-- ⚡ Fun fact **I will...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
